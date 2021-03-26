@@ -8,7 +8,7 @@
         <Nombres>Sapo</Nombres>
         <Apellidos>Garcia Moreno</Apellidos>
         <DNI>56739823R</DNI>
-        <Teléfono>766899433</Teléfono>
+        <Telefono>766899433</Telefono>
         <Direccion>Av. Rogononco 45</Direccion>
         <Fecha_nacimiento>732010</Fecha_nacimiento>
         <Dan>Puñetaso</Dan>
@@ -25,7 +25,7 @@
 
     <Meritos>
         <Id_Aspirantes>9876</Id_Aspirantes>
-        <Edad_aspirante>11</Edad_aspirante>
+        <Edad_aspirante>14</Edad_aspirante>
         <LicenciaActualizada>True</LicenciaActualizada>
         <TrabajoEscrito>True</TrabajoEscrito>
     </Meritos>

@@ -1,0 +1,949 @@
+Id_Aspirantes,
+Nombres,
+Apellidos,
+DNI,
+Telefono,
+Direccion,
+Fecha_nacimiento,
+Dan,
+Cinturon,
+Fecha_Ingreso,
+Foto_Aspirante,
+Tiempo_Dan_Anterior,
+FotoDNI,
+FotoCarnetGrados {
+    display: block;
+}
+
+Aspirantes::before {
+    content: "Aspirantes"
+}
+
+Aspirantes {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirantes {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Nombre {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Apellidos {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+DNI {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Telefono {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Direccion {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Fecha_nacimiento {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Dan {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturon {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Fecha_Ingreso {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Foto_Aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tiempo_Dan_Anterior {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+FotoDNI {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+FotoCarnetGrados {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aspirantes {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirantes,
+Edad_aspirante,
+LicenciaActualizada,
+TrabajoEscrito {
+    display: block;
+}
+
+Meritos::before {
+    content: "Meritos"
+}
+
+Meritos {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirantes {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Edad_aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+LicenciaActualizada {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+TrabajoEscrito {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Meritos {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirantes {
+    display: block;
+}
+
+Convalidacion_grados::before {
+    content: "Convalidacion_grados"
+}
+
+Convalidacion_grados {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirantes {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Convalidacion_grados {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+SolicitudhHasta3Dan,
+DanySuperiorCurriculum4 {
+    display: block;
+}
+
+Requisitos_aspirante::before {
+    content: "Requisitos_aspirante"
+}
+
+Requisitos_aspirante {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+SolicitudhHasta3Dan {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+DanySuperiorCurriculum4 {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Requisitos_aspirante {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirante {
+    display: block;
+}
+
+Dispensa_medica::before {
+    content: "Dispensa_medica"
+}
+
+Dispensa_medica {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Dispensa_medica {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Jueces,
+Nombres,
+Apellidos,
+DiplomaJuez {
+    display: block;
+}
+
+Jueces::before {
+    content: "Jueces"
+}
+
+Jueces {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Jueces {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Nombres {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Apellidos {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+DiplomaJuez {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Jueces {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Indumentaria,
+AseoPersonal,
+EjecuciónTecnica,
+Valores,
+Respuestas {
+    display: block;
+}
+
+Criterio_valoracion::before {
+    content: "Criterio_valoracion"
+}
+
+Criterio_valoracion {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Indumentaria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+AseoPersonal {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+EjecuciónTecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Valores {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Respuestas {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Criterio_valoracion {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Numero_Jueces,
+Calificacion_final {
+    display: block;
+}
+
+Tribunal::before {
+    content: "Tribunal"
+}
+
+Tribunal {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Numero_Jueces {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Calificacion_final {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tribunal {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirante {
+    display: block;
+}
+
+Abonar_cuota::before {
+    content: "Abonar_cuota"
+}
+
+Abonar_cuota {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Abonar_cuota {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirante,
+SuspenderParcial,
+SuspenderTotal,
+SuspenderSegundaFase {
+    display: block;
+}
+
+Suspender_examen::before {
+    content: "Suspender_examen"
+}
+
+Suspender_examen {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+SuspenderParcial {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+SuspenderTotal {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+SuspenderSegundaFase {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Suspender_examen {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Kata,
+Coloquio {
+    display: block;
+}
+
+Quintodanysuperior::before {
+    content: "Quintodanysuperior"
+}
+
+Quintodanysuperior {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Coloquio {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Quintodanysuperior {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Tecnicas,
+Kata,
+Kumite,
+Campeonatos {
+    display: block;
+}
+
+Hasta3erdan::before {
+    content: "Hasta3erdan"
+}
+
+Hasta3erdan {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Tecnicas {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Campeonatos {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Hasta3erdan {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Tecnica_Directa,
+Tecnica_Circulares,
+Tecnica_Pierna,
+Teoria,
+Kata,
+Kumite {
+    display: block;
+}
+
+Cinturonnegro::before {
+    content: "Cinturonnegro"
+}
+
+Cinturonnegro {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Tecnica_Directa {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Circulares {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Pierna {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Teoria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturonnegro {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Tecnica_Defensa,
+Tecnica_Pierna,
+Tecnica_DirectaIndirecta,
+Tecnica_Combinada,
+Teoria,
+Kata,
+Kumite,
+Aplicacion_Tecnica {
+    display: block;
+}
+
+Cinturonnegroprimerdan::before {
+    content: "Cinturonnegroprimerdan"
+}
+
+Cinturonnegroprimerdan {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Tecnica_Defensa {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Pierna {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_DirectaIndirecta {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Combinada {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Teoria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicacion_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturonnegroprimerdan {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Tecnica_Base,
+Tecnica_Directa,
+Tecnica_IndirectaCircular,
+Tecnica_Pierna,
+Tecnica_Combinada,
+Teoria,
+Kata,
+Kumite,
+Campeonatos,
+Tecnicas,
+Aplicacion_Tecnica,
+Demo_Libre {
+    display: block;
+}
+
+Cinturonnegrosegundodan::before {
+    content: "Cinturonnegrosegundodan"
+}
+
+Cinturonnegrosegundodan {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Tecnica_Base {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Directa {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_IndirectaCircular {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Pierna {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica_Combinada {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Teoria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Campeonatos {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnicas {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicacion_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Demo_Libre {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturonnegrosegundodan {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Variaciones_Tecnica,
+Kumite Kata,
+Aplicacion_Tecnica,
+Teoria,
+Kumite,
+Campeonatos,
+Tecnica,
+Aplicaciones,
+Aplicacion_Tecnica,
+Demo_Libre {
+    display: block;
+}
+
+Cinturonnegrotercerdan::before {
+    content: "Cinturonnegrotercerdan"
+}
+
+Cinturonnegrotercerdan {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Variaciones_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicacion_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Teoria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Campeonatos {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicaciones {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicacion_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Demo_Libre {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturonnegrotercerdan {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Kumite,
+Kata,
+Aplicacion_Tecnica,
+Teoria,
+Demo_Libre {
+    display: block;
+}
+
+Cinturonnegrocuartodan::before {
+    content: "Cinturonnegrocuartodan"
+}
+
+Cinturonnegrocuartodan {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Kumite {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Kata {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Aplicacion_Tecnica {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Teoria {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Demo_Libre {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Cinturonnegrocuartodan {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+Id_Aspirante {
+    display: block;
+}
+
+Resultados::before {
+    content: "Resultados"
+}
+
+Resultados {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+Id_Aspirante {
+    background-color: lightpink;
+    border: purple 2px solid;
+    margin: 10px;
+}
+
+Resultados {
+    background-color: grey;
+    border-bottom: black 2px solid;
+    font-weight: bold;
+    padding-left: 2px;
+}
