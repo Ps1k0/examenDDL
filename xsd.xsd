@@ -42,7 +42,7 @@
                               <xsd:element name="Nombres" type="xsd:string"/>
                               <xsd:element name="Apellidos" type="xsd:string"/>
                               <xsd:element name="DNI" type="xsd:string"/>
-                              <xsd:element name="Teléfono" type="xsd:string"/>
+                              <xsd:element name="Telefono" type="xsd:string"/>
                               <xsd:element name="Direccion" type="xsd:string"/>
                               <xsd:element name="Fecha_nacimiento" type="xsd:integer"/>
                               <xsd:element name="Dan" type="xsd:string"/>
