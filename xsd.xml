@@ -4,178 +4,178 @@
 
 
     <Aspirantes>
-        <Id_Aspirantes> </Id_Aspirantes>
-        <Nombres></Nombres>
-        <Apellidos></Apellidos>
-        <DNI></DNI>
-        <Teléfono></Teléfono>
-        <Direccion></Direccion>
-        <Fecha_nacimiento></Fecha_nacimiento>
-        <Dan></Dan>
-        <Cinturon></Cinturon>
-        <Fecha_Ingreso></Fecha_Ingreso>
-        <Foto_Aspirante></Foto_Aspirante>
-        <Tiempo_Dan_Anterior></Tiempo_Dan_Anterior>
-        <FotoDNI></FotoDNI>
-        <FotoCarnetGrados></FotoCarnetGrados>
+        <Id_Aspirantes>9876</Id_Aspirantes>
+        <Nombres>Sapo</Nombres>
+        <Apellidos>Garcia Moreno</Apellidos>
+        <DNI>56739823R</DNI>
+        <Teléfono>766899433</Teléfono>
+        <Direccion>Av. Rogononco 45</Direccion>
+        <Fecha_nacimiento>732010</Fecha_nacimiento>
+        <Dan>Puñetaso</Dan>
+        <Cinturon>Azul</Cinturon>
+        <Fecha_Ingreso>23/4/2015</Fecha_Ingreso>
+        <Foto_Aspirante>Hola</Foto_Aspirante>
+        <Tiempo_Dan_Anterior>78</Tiempo_Dan_Anterior>
+        <FotoDNI>Gordo</FotoDNI>
+        <FotoCarnetGrados>Flaco</FotoCarnetGrados>
     </Aspirantes>
 
 
 
 
     <Meritos>
-        <Id_Aspirantes></Id_Aspirantes>
-        <Edad_aspirante></Edad_aspirante>
-        <LicenciaActualizada></LicenciaActualizada>
-        <TrabajoEscrito></TrabajoEscrito>
+        <Id_Aspirantes>9876</Id_Aspirantes>
+        <Edad_aspirante>11</Edad_aspirante>
+        <LicenciaActualizada>True</LicenciaActualizada>
+        <TrabajoEscrito>True</TrabajoEscrito>
     </Meritos>
 
 
 
     <Convalidacion_grados>
-        <Id_Aspirantes></Id_Aspirantes>
+        <Id_Aspirantes>9876</Id_Aspirantes>
     </Convalidacion_grados>
 
 
 
     <Requisitos_aspirante>
-        <SolicitudhHasta3Dan></SolicitudhHasta3Dan>
-        <DanySuperiorCurriculum4></DanySuperiorCurriculum4>
+        <SolicitudhHasta3Dan>True</SolicitudhHasta3Dan>
+        <DanySuperiorCurriculum4>True</DanySuperiorCurriculum4>
     </Requisitos_aspirante>
 
 
 
     <Dispensa_medica>
-        <Id_Aspirante></Id_Aspirante>
+        <Id_Aspirante>9876</Id_Aspirante>
     </Dispensa_medica>
 
 
     <Jueces>
-        <Id_Jueces></Id_Jueces>
-        <Nombres></Nombres>
-        <Apellidos></Apellidos>
-        <DiplomaJuez></DiplomaJuez>
+        <Id_Jueces>1234</Id_Jueces>
+        <Nombres>Pepitardo</Nombres>
+        <Apellidos>Gordo Lokordo</Apellidos>
+        <DiplomaJuez>True</DiplomaJuez>
     </Jueces>
 
     
 
     <Criterio_valoracion>
-        <Indumentaria></Indumentaria>
-        <AseoPersonal></AseoPersonal>
-        <EjecuciónTecnica></EjecuciónTecnica>
-        <Valores></Valores>
-        <Respuestas></Respuestas>
+        <Indumentaria>34</Indumentaria>
+        <AseoPersonal>12</AseoPersonal>
+        <EjecuciónTecnica>56</EjecuciónTecnica>
+        <Valores>17</Valores>
+        <Respuestas>45</Respuestas>
     </Criterio_valoracion>
 
 
 
     <Tribunal>
-        <Numero_Jueces></Numero_Jueces>
-        <Calificacion_final></Calificacion_final>
+        <Numero_Jueces>72</Numero_Jueces>
+        <Calificacion_final>88</Calificacion_final>
     </Tribunal>
 
 
 
     <Abonar_cuota>
-        <Id_Aspirante></Id_Aspirante>
+        <Id_Aspirante>1235</Id_Aspirante>
     </Abonar_cuota>
 
 
 
     <Suspender_examen>
-        <Id_Aspirante></Id_Aspirante>
-        <SuspenderParcial></SuspenderParcial>
-        <SuspenderTotal></SuspenderTotal>
-        <SuspenderSegundaFase></SuspenderSegundaFase>
+        <Id_Aspirante>3487</Id_Aspirante>
+        <SuspenderParcial>False</SuspenderParcial>
+        <SuspenderTotal>False</SuspenderTotal>
+        <SuspenderSegundaFase>False</SuspenderSegundaFase>
     </Suspender_examen>
 
 
 
     <Quintodanysuperior>
-        <Kata></Kata>
-        <Coloquio></Coloquio>
+        <Kata>Trabolardo</Kata>
+        <Coloquio>colacao</Coloquio>
     </Quintodanysuperior>
 
 
 
     <Hasta3erdan>
-        <Tecnicas></Tecnicas>
-        <Kata></Kata>
-        <Kumite></Kumite>
-        <Campeonatos></Campeonatos>
+        <Tecnicas>bola</Tecnicas>
+        <Kata>grasa</Kata>
+        <Kumite>patadagorda</Kumite>
+        <Campeonatos>Foca</Campeonatos>
     </Hasta3erdan>
 
 
 
     <Cinturonnegro>
-        <Tecnica_Directa></Tecnica_Directa>
-        <Tecnica_Circulares></Tecnica_Circulares>
-        <Tecnica_Pierna></Tecnica_Pierna>
-        <Teoria></Teoria>
-        <Kata></Kata>
-        <Kumite></Kumite>
+        <Tecnica_Directa>Patada de grasa</Tecnica_Directa>
+        <Tecnica_Circulares>el boloncho</Tecnica_Circulares>
+        <Tecnica_Pierna>no se puede</Tecnica_Pierna>
+        <Teoria>te aplasta</Teoria>
+        <Kata>grasa</Kata>
+        <Kumite>patada morvida</Kumite>
     </Cinturonnegro>
 
 
 
     <Cinturonnegroprimerdan>
-        <Tecnica_Defensa></Tecnica_Defensa>
-        <Tecnica_Pierna></Tecnica_Pierna>
-        <Tecnica_DirectaIndirecta></Tecnica_DirectaIndirecta>
-        <Tecnica_Combinada></Tecnica_Combinada>
-        <Teoria></Teoria>
-        <Kata></Kata>
-        <Kumite></Kumite>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
+        <Tecnica_Defensa>proteccion adquirida</Tecnica_Defensa>
+        <Tecnica_Pierna>grua</Tecnica_Pierna>
+        <Tecnica_DirectaIndirecta>el mando</Tecnica_DirectaIndirecta>
+        <Tecnica_Combinada>snorlax</Tecnica_Combinada>
+        <Teoria>levantarme</Teoria>
+        <Kata>bola</Kata>
+        <Kumite>abolle la grua</Kumite>
+        <Aplicacion_Tecnica>las ruedas estaban aplastadas</Aplicacion_Tecnica>
     </Cinturonnegroprimerdan>
 
 
 
     <Cinturonnegrosegundodan>
-        <Tecnica_Base></Tecnica_Base>
-        <Tecnica_Directa></Tecnica_Directa>
-        <Tecnica_IndirectaCircular></Tecnica_IndirectaCircular>
-        <Tecnica_Pierna></Tecnica_Pierna>
+        <Tecnica_Base>la bajada</Tecnica_Base>
+        <Tecnica_Directa>la amasadora</Tecnica_Directa>
+        <Tecnica_IndirectaCircular>la engullicion</Tecnica_IndirectaCircular>
+        <Tecnica_Pierna>michelin</Tecnica_Pierna>
         <Tecnica_Combinada></Tecnica_Combinada>
-        <Teoria></Teoria>
-        <Kata></Kata>
-        <Kumite></Kumite>
-        <Campeonatos></Campeonatos>
-        <Tecnicas></Tecnicas>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Demo_Libre></Demo_Libre>
+        <Teoria>si bajo no subo</Teoria>
+        <Kata>me quedo en el oyo</Kata>
+        <Kumite>nadie me saca</Kumite>
+        <Campeonatos>comision de bollos</Campeonatos>
+        <Tecnicas>agujero negro</Tecnicas>
+        <Aplicacion_Tecnica>mandibula hipopotamo</Aplicacion_Tecnica>
+        <Demo_Libre>ir al mcdonalds</Demo_Libre>
     </Cinturonnegrosegundodan>
 
 
 
     <Cinturonnegrotercerdan>
-        <Variaciones_Tecnica></Variaciones_Tecnica>
-        <Kumite></Kumite>
-        <Kata></Kata>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Teoria></Teoria>
-        <Kumite></Kumite>
-        <Campeonatos></Campeonatos>
-        <Tecnica></Tecnica>
-        <Aplicaciones></Aplicaciones>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Demo_Libre></Demo_Libre>
+        <Variaciones_Tecnica>la fotosintesis</Variaciones_Tecnica>
+        <Kumite>armonia con la naturaleza</Kumite>
+        <Kata>mvimiento aireoso</Kata>
+        <Aplicacion_Tecnica>realizar oxigeno</Aplicacion_Tecnica>
+        <Teoria>fortifico el terreno</Teoria>
+        <Kumite>absorber nutrientes</Kumite>
+        <Campeonatos>tecnica estatica y silencio</Campeonatos>
+        <Tecnica>pasar desapercibido</Tecnica>
+        <Aplicaciones>espionaje</Aplicaciones>
+        <Aplicacion_Tecnica>me aplico al entorno</Aplicacion_Tecnica>
+        <Demo_Libre>soy todo oidos</Demo_Libre>
     </Cinturonnegrotercerdan>
 
 
 
     <Cinturonnegrocuartodan>
-        <Kumite></Kumite>
-        <Kata></Kata>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Teoria></Teoria>
-        <Demo_Libre></Demo_Libre>
+        <Kumite>no tengo boca</Kumite>
+        <Kata>silencio</Kata>
+        <Aplicacion_Tecnica>loko</Aplicacion_Tecnica>
+        <Teoria>fumar porros</Teoria>
+        <Demo_Libre>poorros</Demo_Libre>
     </Cinturonnegrocuartodan>
 
 
 
     <Resultados>
-        <Id_Aspirante></Id_Aspirante>
+        <Id_Aspirante>9654</Id_Aspirante>
     </Resultados>
 
 </Examen>
